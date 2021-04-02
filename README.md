@@ -21,7 +21,7 @@
 <img align="left" width="40px" alt="vscode" src="https://user-images.githubusercontent.com/77635828/113379292-7a63ea80-934f-11eb-9a2a-e17485badcf8.png">
 <img align="left" width="40px" alt="asp.net" src="https://user-images.githubusercontent.com/77635828/113379364-aed7a680-934f-11eb-9c27-da055c793585.png">
 
-<img align="right" width="200px" alt="computer" src="https://user-images.githubusercontent.com/77635828/113380114-b8620e00-9351-11eb-900d-5373117e955c.png">
+<img align="right" width="350px" alt="computer" src="https://user-images.githubusercontent.com/77635828/113380114-b8620e00-9351-11eb-900d-5373117e955c.png">
 
 <br>
 <br>
