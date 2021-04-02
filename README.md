@@ -12,14 +12,14 @@
 
 #### My languages and tools
 
-<img align="left" width="30px" alt="html" src="https://user-images.githubusercontent.com/77635828/113378137-a16ced00-934c-11eb-9096-250ed891a91a.png">
-<img align="left" width="30px" alt="css" src="https://user-images.githubusercontent.com/77635828/113378216-dbd68a00-934c-11eb-83f3-9745fd7afacc.png">
-<img align="left" width="30px" alt="javascript" src="https://user-images.githubusercontent.com/77635828/113378444-6b7c3880-934d-11eb-805d-42e40554e0af.png">
-<img align="left" width="30px" alt="csharp" src="https://user-images.githubusercontent.com/77635828/113378520-9d8d9a80-934d-11eb-958e-23f4c2bb8bcd.png">
-<img align="left" width="30px" alt="sql" src="https://user-images.githubusercontent.com/77635828/113378580-bdbd5980-934d-11eb-9867-22af7cecf00c.png">
-<img align="left" width="30px" alt="git" src="https://user-images.githubusercontent.com/77635828/113378614-d7f73780-934d-11eb-8a16-ec79486a7032.png">
-<img align="left" width="45px" alt="vscode" src="https://user-images.githubusercontent.com/77635828/113378805-476d2700-934e-11eb-8fed-92ee4642d338.png">
-<img align="left" width="45px" alt="asp.net" src="https://user-images.githubusercontent.com/77635828/113378852-6cfa3080-934e-11eb-9e13-0455a33a9034.png">
+<img align="left" width="40px" alt="html" src="https://user-images.githubusercontent.com/77635828/113378137-a16ced00-934c-11eb-9096-250ed891a91a.png">
+<img align="left" width="40px" alt="css" src="https://user-images.githubusercontent.com/77635828/113378216-dbd68a00-934c-11eb-83f3-9745fd7afacc.png">
+<img align="left" width="40px" alt="javascript" src="https://user-images.githubusercontent.com/77635828/113378444-6b7c3880-934d-11eb-805d-42e40554e0af.png">
+<img align="left" width="40px" alt="csharp" src="https://user-images.githubusercontent.com/77635828/113378520-9d8d9a80-934d-11eb-958e-23f4c2bb8bcd.png">
+<img align="left" width="40px" alt="sql" src="https://user-images.githubusercontent.com/77635828/113378580-bdbd5980-934d-11eb-9867-22af7cecf00c.png">
+<img align="left" width="40px" alt="git" src="https://user-images.githubusercontent.com/77635828/113378614-d7f73780-934d-11eb-8a16-ec79486a7032.png">
+<img align="left" width="70px" alt="vscode" src="https://user-images.githubusercontent.com/77635828/113378805-476d2700-934e-11eb-8fed-92ee4642d338.png">
+<img align="left" width="70px" alt="asp.net" src="https://user-images.githubusercontent.com/77635828/113378852-6cfa3080-934e-11eb-9e13-0455a33a9034.png">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigocambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
 <br>
