@@ -18,8 +18,8 @@
 <img align="left" width="40px" alt="csharp" src="https://user-images.githubusercontent.com/77635828/113378520-9d8d9a80-934d-11eb-958e-23f4c2bb8bcd.png">
 <img align="left" width="40px" alt="sql" src="https://user-images.githubusercontent.com/77635828/113378580-bdbd5980-934d-11eb-9867-22af7cecf00c.png">
 <img align="left" width="40px" alt="git" src="https://user-images.githubusercontent.com/77635828/113378614-d7f73780-934d-11eb-8a16-ec79486a7032.png">
-<img align="left" width="70px" alt="vscode" src="https://user-images.githubusercontent.com/77635828/113378805-476d2700-934e-11eb-8fed-92ee4642d338.png">
-<img align="left" width="70px" alt="asp.net" src="https://user-images.githubusercontent.com/77635828/113378852-6cfa3080-934e-11eb-9e13-0455a33a9034.png">
+<img align="left" width="40px" alt="vscode" src="https://user-images.githubusercontent.com/77635828/113379292-7a63ea80-934f-11eb-9a2a-e17485badcf8.png">
+<img align="left" width="40px" alt="asp.net" src="https://user-images.githubusercontent.com/77635828/113379364-aed7a680-934f-11eb-9c27-da055c793585.png">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigocambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
 <br>
