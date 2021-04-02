@@ -10,7 +10,9 @@
 * :mag_right: I'm looking for a job, in order to acquire knowledge and share everything I've learned until now!
 * :earth_americas: There are some nice projects here, go adventurer, they're waiting for you! 
 
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigocambraia14)](https://github.com/Rodrigocambraia14/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigocambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
+<br>
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigocambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
 
 ### Contact me!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rodrigocambraia14)](https://github.com/fagnerpsantos)
