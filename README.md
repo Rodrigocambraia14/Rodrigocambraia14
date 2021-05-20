@@ -5,8 +5,8 @@
 
 ### About me
 
-* :mortar_board: I am a back-end / front-end developer studying Systems and Analysis Development at University!
-* :confetti_ball: 2021 goals: Revive Brazil zombie records website with my team!
+* :mortar_board: I am a Full-Stack developer studying Systems and Analysis Development at University!
+* :confetti_ball: 2021 goals: Improve my knowlegde to infinity and beyond :) !
 * :mag_right: I'm looking for a job, in order to acquire knowledge and share everything I've learned until now!
 * :earth_americas: There are some nice projects here, go adventurer, they're waiting for you! 
 
@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigocambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
 <br>
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigocambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a feature of github-readme-stats*
 ### Contact me!
