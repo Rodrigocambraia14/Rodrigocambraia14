@@ -6,8 +6,8 @@
 ### About me
 
 * :mortar_board: I am a Full-Stack developer studying Systems and Analysis Development at University!
-* :confetti_ball: 2021 goals: Improve my knowlegde to infinity and beyond :) !
-* :mag_right: I'm looking for a job, in order to acquire knowledge and share everything I've learned until now!
+* :confetti_ball: goals: Improve my knowlegde to infinity and beyond :) !
+* :mag_right: I'm always working hard and doing my best to keep my codes clean and updated at work ! 
 * :earth_americas: There are some nice projects here, go adventurer, they're waiting for you! 
 
 #### My languages and tools
