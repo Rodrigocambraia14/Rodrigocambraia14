@@ -10,19 +10,6 @@
 * :mag_right: I'm always working hard and doing my best to keep my codes clean and updated at work ! 
 * :earth_americas: There are some nice projects here, go adventurer, they're waiting for you! 
 
-#### My languages and tools
-
-<img align="left" width="40px" alt="html" src="https://user-images.githubusercontent.com/77635828/113378137-a16ced00-934c-11eb-9096-250ed891a91a.png">
-<img align="left" width="40px" alt="css" src="https://user-images.githubusercontent.com/77635828/113378216-dbd68a00-934c-11eb-83f3-9745fd7afacc.png">
-<img align="left" width="40px" alt="javascript" src="https://user-images.githubusercontent.com/77635828/113378444-6b7c3880-934d-11eb-805d-42e40554e0af.png">
-<img align="left" width="40px" alt="csharp" src="https://user-images.githubusercontent.com/77635828/113378520-9d8d9a80-934d-11eb-958e-23f4c2bb8bcd.png">
-<img align="left" width="40px" alt="sql" src="https://user-images.githubusercontent.com/77635828/113378580-bdbd5980-934d-11eb-9867-22af7cecf00c.png">
-<img align="left" width="40px" alt="git" src="https://user-images.githubusercontent.com/77635828/113378614-d7f73780-934d-11eb-8a16-ec79486a7032.png">
-<img align="left" width="40px" alt="vscode" src="https://user-images.githubusercontent.com/77635828/113379292-7a63ea80-934f-11eb-9a2a-e17485badcf8.png">
-<img align="left" width="40px" alt="asp.net" src="https://user-images.githubusercontent.com/77635828/113379364-aed7a680-934f-11eb-9c27-da055c793585.png">
-
-<img align="right" width="350px" alt="computer" src="https://user-images.githubusercontent.com/77635828/113380321-48a05300-9352-11eb-85ba-e9c298d233b9.png">
-
 <br>
 <br>
 <br>
