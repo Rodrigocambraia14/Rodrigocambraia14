@@ -5,9 +5,9 @@
 
 ### About me
 
-* :mortar_board: I am a Full-Stack developer studying Systems and Analysis Development at University!
+* :mortar_board: I am a Full-Stack developer currently working at ASC Solutions.
 * :confetti_ball: goals: Improve my knowlegde to infinity and beyond :) !
-* :mag_right: I'm always working hard and doing my best to keep my codes clean and updated at work ! 
+* :mag_right: I'm always working hard and doing my best to keep the clean code and architecture principles in every project.
 * :earth_americas: There are some nice projects here, go adventurer, they're waiting for you! 
 
 <br>
