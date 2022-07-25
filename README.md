@@ -15,6 +15,22 @@
 <br>
 <br>
 
+Techs And Tools:
+- .NET (multiple versions from .NET 2 to .NET 6)
+- C# / Entity FrameWork / Identity / Code-First Migrations
+- Angular / Angular Material / Typescript / Javascript / Jquery
+- CSS / SCSS / Bootstrap 
+- HTML
+- IONIC 5 and 6
+- MVC / CQRS / SOLID / DDD
+- Azure DevOps 
+- Microservices ( Logic Apps / Firebase )
+- SCRUM
+- Auth Guard / JWToken
+- REST / RESTFULL APIs / Swagger / Postman
+- SQL Server / MySQL
+- Magento2 API Integrations
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigocambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
 <br>
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
