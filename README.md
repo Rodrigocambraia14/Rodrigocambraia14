@@ -12,10 +12,8 @@
 
 <br>
 <br>
-<br>
-<br>
 
-Techs And Tools:
+### Techs And Tools:
 - .NET (multiple versions from .NET 2 to .NET 6)
 - C# / Entity FrameWork / Identity / Code-First Migrations
 - Angular / Angular Material / Typescript / Javascript / Jquery
@@ -30,6 +28,9 @@ Techs And Tools:
 - REST / RESTFULL APIs / Swagger / Postman
 - SQL Server / MySQL
 - Magento2 API Integrations
+
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigocambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
 <br>
