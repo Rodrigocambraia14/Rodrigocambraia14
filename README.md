@@ -15,12 +15,15 @@
 
 ### Techs And Tools:
 - .NET (multiple versions from .NET 2 to .NET 6)
+- .NET Core
+- Xamarin
 - C# / Entity FrameWork / Identity / Code-First Migrations
 - Angular / Angular Material / Typescript / Javascript / Jquery
 - CSS / SCSS / Bootstrap 
 - HTML
 - IONIC 5 and 6
-- MVC / CQRS / SOLID / DDD
+- PWA
+- MVC / CQRS / SOLID / DDD / Clean Code Principle
 - Azure DevOps 
 - Microservices ( Logic Apps / Firebase )
 - SCRUM
