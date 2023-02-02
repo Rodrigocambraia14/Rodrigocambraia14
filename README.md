@@ -5,7 +5,7 @@
 
 ### About me
 
-* :mortar_board: I am a Full-Stack developer currently working at ASC Solutions.
+* :mortar_board: I am a Sofware Engineer currently working at Localiza &CO.
 * :confetti_ball: goals: Improve my knowlegde to infinity and beyond :) !
 * :mag_right: I'm always working hard and doing my best to keep the clean code and architecture principles in every project.
 * :earth_americas: There are some nice projects here, go adventurer, they're waiting for you! 
@@ -14,9 +14,10 @@
 <br>
 
 ### Techs And Tools:
-- .NET (multiple versions from .NET 2 to .NET 6)
+- .NET (multiple versions from .NET 3 to .NET 7)
 - .NET Core
 - Xamarin
+- WPF
 - C# / Entity FrameWork / Identity / Code-First Migrations
 - Angular / Angular Material / Typescript / Javascript / Jquery
 - CSS / SCSS / Bootstrap 
@@ -25,12 +26,16 @@
 - PWA
 - MVC / CQRS / SOLID / DDD / Clean Code Principle
 - Azure DevOps 
+- Harness
 - Microservices ( Logic Apps / Firebase )
 - SCRUM
 - Auth Guard / JWToken
 - REST / RESTFULL APIs / Swagger / Postman
 - SQL Server / MySQL
+- REDIS
 - Magento2 API Integrations
+- Datadog
+- Kibana
 
 <br>
 <br>
