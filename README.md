@@ -14,8 +14,9 @@
 <br>
 
 ### Techs And Tools:
-- .NET (multiple versions from .NET 3 to .NET 7)
+- .NET
 - .NET Core
+- .ASP NET
 - Xamarin
 - WPF
 - C# / Entity FrameWork / Identity / Code-First Migrations
