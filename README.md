@@ -20,38 +20,38 @@ Always maintaining a proactive, respectful, friendly posture, and keeping humili
 I am fluent in English, communicative with leadership and team colleagues, openly sharing challenges and progress on the tasks I handle, and maintaining transparency as one of my core principles. I enjoy challenges and am continuously learning.
 
 Skills:
-
-.NET
-.NET Core
-ASP.NET
-C#
-xUnit (unit tests)
-Microsservices 
-DDD, SOLID, Onion, MVC
-Mappers
-Linq 
-.NET - SAP integrations
-WPF
-Xamarin
-SQL Server
-Dapper
-Messaging Services (RabbitMQ)
-Azure CI/CD for app services
-MySQL
-Entity Framework
-Fluent Validation
-Angular 8+
-Ionic
-jQuery
-HTML, CSS, JavaScript, TypeScript
-Bootstrap
-Swagger
-Hangfire
-Postman
-SoapUI
-REDIS
-Datadog
-Kibana
+<br>
+.NET <br>
+.NET Core <br>
+ASP.NET <br>
+C# <br>
+xUnit (unit tests) <br>
+Microsservices  <br>
+DDD, SOLID, Onion, MVC <br>
+Mappers <br>
+Linq  <br>
+.NET - SAP integrations <br>
+WPF <br>
+Xamarin <br>
+SQL Server <br>
+Dapper <br>
+Messaging Services (RabbitMQ) <br> 
+Azure CI/CD for app services <br>
+MySQL <br>
+Entity Framework <br>
+Fluent Validation <br>
+Angular 8+ <br> 
+Ionic <br>
+jQuery <br>
+HTML, CSS, JavaScript, TypeScript <br>
+Bootstrap <br>
+Swagger <br>
+Hangfire <br>
+Postman <br>
+SoapUI <br>
+REDIS <br>
+Datadog <br>
+Kibana <br>
 Azure DevOps (Branch control, PRs, Pipeline and release execution, creation of environment variables, application scaling, Logic Apps, management of App Services, etc.)
 Development of REST APIs, Web Services, Windows Services, Console and Desktop Applications, SOAP, IIS applications, messaging services with RabbitMQ.
 Development and maintenance of high complexity Legacy applications
