@@ -52,21 +52,22 @@ SoapUI <br>
 REDIS <br>
 Datadog <br>
 Kibana <br>
-Azure DevOps (Branch control, PRs, Pipeline and release execution, creation of environment variables, application scaling, Logic Apps, management of App Services, etc.)
-Development of REST APIs, Web Services, Windows Services, Console and Desktop Applications, SOAP, IIS applications, messaging services with RabbitMQ.
-Development and maintenance of high complexity Legacy applications
-Creation and participation in projects with CQRS, MVC, and Onion architectures using DDD and SOLID principles.
-WPF application development
-Refactoring of applications with complex processes
-Development of Jobs in .NET applications
-Development of applications with Code-first data modeling, benefiting from tools like Entity Framework, migrations, together with SQL databases
-Initiative for modernization of legacy project architecture.
-Huge participation in Microservices architecture models, making macro and micro architectural decisions.
-End-to-end task development (table creation in the database, API development, endpoint provisioning, API consumption, and user interaction screen development).
-Multi-tenant application development
-Development and maintenance of monolithic .NET applications
-Development of administrative web systems for multi-tenant web applications.
-Transcription of Delphi features to .NET.
+Azure DevOps (Branch control, PRs, Pipeline and release execution, creation of environment variables, application scaling, Logic Apps, management of App Services, etc.) <br>
+Development of REST APIs, Web Services, Windows Services, Console and Desktop Applications, SOAP, IIS applications, messaging services with RabbitMQ. <br>
+Development and maintenance of high complexity Legacy applications <br>
+Development and automation of financial applications that should generate reports and send data to other sistems
+Creation and participation in projects with CQRS, MVC, and Onion architectures using DDD and SOLID principles. <br>
+WPF application development <br>
+Refactoring of applications with complex processes <br>
+Development of Jobs in .NET applications <br>
+Development of applications with Code-first data modeling, benefiting from tools like Entity Framework, migrations, together with SQL databases <br>
+Initiative for modernization of legacy project architecture. <br>
+Huge participation in Microservices architecture models, making macro and micro architectural decisions. <br>
+End-to-end task development (table creation in the database, API development, endpoint provisioning, API consumption, and user interaction screen development). <br>
+Multi-tenant application development <br>
+Development and maintenance of monolithic .NET applications <br>
+Development of administrative web systems for multi-tenant web applications. <br>
+Transcription of Delphi features to .NET. <br>
 
 <br>
 <br>
