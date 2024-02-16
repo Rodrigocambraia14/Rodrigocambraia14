@@ -13,30 +13,60 @@
 <br>
 <br>
 
-### Techs And Tools:
-- .NET
-- .NET Core
-- .ASP NET
-- Xamarin
-- WPF
-- C# / Entity FrameWork / Identity / Code-First Migrations
-- Angular / Angular Material / Typescript / Javascript / Jquery
-- CSS / SCSS / Bootstrap 
-- HTML
-- IONIC 5 and 6
-- PWA
-- MVC / CQRS / SOLID / DDD / Clean Code Principle
-- Azure DevOps 
-- Harness
-- Microservices ( Logic Apps / Firebase )
-- SCRUM
-- Auth Guard / JWToken
-- REST / RESTFULL APIs / Swagger / Postman
-- SQL Server / MySQL
-- REDIS
-- Magento2 API Integrations
-- Datadog
-- Kibana
+Software Developer with 3 years of experience, currently working as a .NET Software Developer II at Localiza &CO, a leading company in the transportation and mobility sector.
+
+Always maintaining a proactive, respectful, friendly posture, and keeping humility in the workplace, as well as a sense of ownership in the projects I am involved in. I always strive to stay updated with the latest technologies in the market, and apply them in personal projects whenever there is free time available.
+
+I am fluent in English, communicative with leadership and team colleagues, openly sharing challenges and progress on the tasks I handle, and maintaining transparency as one of my core principles. I enjoy challenges and am continuously learning.
+
+Skills:
+
+.NET
+.NET Core
+ASP.NET
+C#
+xUnit (unit tests)
+Microsservices 
+DDD, SOLID, Onion, MVC
+Mappers
+Linq 
+.NET - SAP integrations
+WPF
+Xamarin
+SQL Server
+Dapper
+Messaging Services (RabbitMQ)
+Azure CI/CD for app services
+MySQL
+Entity Framework
+Fluent Validation
+Angular 8+
+Ionic
+jQuery
+HTML, CSS, JavaScript, TypeScript
+Bootstrap
+Swagger
+Hangfire
+Postman
+SoapUI
+REDIS
+Datadog
+Kibana
+Azure DevOps (Branch control, PRs, Pipeline and release execution, creation of environment variables, application scaling, Logic Apps, management of App Services, etc.)
+Development of REST APIs, Web Services, Windows Services, Console and Desktop Applications, SOAP, IIS applications, messaging services with RabbitMQ.
+Development and maintenance of high complexity Legacy applications
+Creation and participation in projects with CQRS, MVC, and Onion architectures using DDD and SOLID principles.
+WPF application development
+Refactoring of applications with complex processes
+Development of Jobs in .NET applications
+Development of applications with Code-first data modeling, benefiting from tools like Entity Framework, migrations, together with SQL databases
+Initiative for modernization of legacy project architecture.
+Huge participation in Microservices architecture models, making macro and micro architectural decisions.
+End-to-end task development (table creation in the database, API development, endpoint provisioning, API consumption, and user interaction screen development).
+Multi-tenant application development
+Development and maintenance of monolithic .NET applications
+Development of administrative web systems for multi-tenant web applications.
+Transcription of Delphi features to .NET.
 
 <br>
 <br>
