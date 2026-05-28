@@ -1,82 +1,112 @@
-# Hi! Welcome to my GitHub :relaxed:
- 
+Rodrigo Cambraia
 
+Tech Lead | Software Engineer .NET & Angular
 
+Desenvolvedor de software com foco em arquitetura, modernização de sistemas e construção de aplicações escaláveis. Atualmente atuo como Tech Lead, liderando projetos e decisões técnicas voltadas para performance, automação, microsserviços e aplicações enterprise.
 
-### About me
+Tenho experiência em sistemas de alta complexidade, integrações financeiras, refatoração de legados e desenvolvimento full stack com ecossistema Microsoft e Angular.
 
-* :mortar_board: I am a Sofware Engineer currently working at Localiza &CO.
-* :confetti_ball: goals: Improve my knowlegde to infinity and beyond :) !
-* :mag_right: I'm always working hard and doing my best to keep the clean code and architecture principles in every project.
-* :earth_americas: There are some nice projects here, go adventurer, they're waiting for you! 
+Busco sempre equilibrar arquitetura sólida, código limpo e visão de produto, participando ativamente desde a modelagem até a entrega em produção.
 
-<br>
-<br>
+---
 
-Software Developer with 3 years of experience, currently working as a .NET Software Developer II at Localiza &CO, a leading company in the transportation and mobility sector.
+Tecnologias & Stack
 
-Always maintaining a proactive, respectful, friendly posture, and keeping humility in the workplace, as well as a sense of ownership in the projects I am involved in. I always strive to stay updated with the latest technologies in the market, and apply them in personal projects whenever there is free time available.
+Back-end
 
-I am fluent in English, communicative with leadership and team colleagues, openly sharing challenges and progress on the tasks I handle, and maintaining transparency as one of my core principles. I enjoy challenges and am continuously learning.
+- .NET / .NET Core
+- ASP.NET
+- C#
+- REST APIs
+- Microsserviços
+- RabbitMQ
+- Redis
+- Hangfire
+- Entity Framework
+- Dapper
+- FluentValidation
+- xUnit
 
-Skills:
-<br>
-.NET <br>
-.NET Core <br>
-ASP.NET <br>
-C# <br>
-xUnit (unit tests) <br>
-Microsservices  <br>
-DDD, SOLID, Onion, MVC <br>
-Mappers <br>
-Linq  <br>
-.NET - SAP integrations <br>
-WPF <br>
-Xamarin <br>
-SQL Server <br>
-Dapper <br>
-Messaging Services (RabbitMQ) <br> 
-Azure CI/CD for app services <br>
-MySQL <br>
-Entity Framework <br>
-Fluent Validation <br>
-Angular 8+ <br> 
-Ionic <br>
-jQuery <br>
-HTML, CSS, JavaScript, TypeScript <br>
-Bootstrap <br>
-Swagger <br>
-Hangfire <br>
-Postman <br>
-SoapUI <br>
-REDIS <br>
-Datadog <br>
-Kibana <br>
-Azure DevOps (Branch control, PRs, Pipeline and release execution, creation of environment variables, application scaling, Logic Apps, management of App Services, etc.) <br>
-Development of REST APIs, Web Services, Windows Services, Console and Desktop Applications, SOAP, IIS applications, messaging services with RabbitMQ. <br>
-Development and maintenance of high complexity Legacy applications <br>
-Development and automation of financial applications that should generate reports and send data to other sistems
-Creation and participation in projects with CQRS, MVC, and Onion architectures using DDD and SOLID principles. <br>
-WPF application development <br>
-Refactoring of applications with complex processes <br>
-Development of Jobs in .NET applications <br>
-Development of applications with Code-first data modeling, benefiting from tools like Entity Framework, migrations, together with SQL databases <br>
-Initiative for modernization of legacy project architecture. <br>
-Huge participation in Microservices architecture models, making macro and micro architectural decisions. <br>
-End-to-end task development (table creation in the database, API development, endpoint provisioning, API consumption, and user interaction screen development). <br>
-Multi-tenant application development <br>
-Development and maintenance of monolithic .NET applications <br>
-Development of administrative web systems for multi-tenant web applications. <br>
-Transcription of Delphi features to .NET. <br>
+Arquitetura & Boas práticas
 
-<br>
-<br>
+- DDD
+- SOLID
+- Clean Architecture
+- Onion Architecture
+- CQRS
+- MVC
+- Refatoração de legados
+- Aplicações multi-tenant
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigocambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
-<br>
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCambraia14&show_icons=true&theme=tokyonight)](https://github.com/Rodrigocambraia14/github-readme-stats)
+Front-end
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a feature of github-readme-stats*
-### Contact me!
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rodrigocambraia14)](https://github.com/fagnerpsantos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gonçalves-cambraia-soares-36b114203/)](https://www.linkedin.com/in/rodrigo-gonçalves-cambraia-soares-36b114203/)
+- Angular
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Ionic
+
+Banco de dados
+
+- SQL Server
+- MySQL
+- Modelagem relacional
+- Code First
+- Migrations
+
+DevOps & Cloud
+
+- Azure DevOps
+- CI/CD
+- App Services
+- Pipelines
+- Release management
+- Monitoramento com Datadog e Kibana
+
+---
+
+Experiência
+
+Tech Lead / Software Engineer
+
+Atuação em projetos corporativos de alta complexidade, liderando decisões técnicas e desenvolvimento end-to-end.
+
+Principais entregas:
+
+- Modernização de arquiteturas legadas
+- Criação e manutenção de microsserviços
+- Automação de processos financeiros
+- Integrações entre sistemas enterprise
+- Desenvolvimento de APIs escaláveis
+- Implementação de mensageria e processamento assíncrono
+- Otimização de performance e redução de tempo de processamento
+- Estruturação de pipelines e ambientes cloud
+
+---
+
+O que você vai encontrar aqui
+
+- APIs em .NET
+- Projetos Full Stack
+- Estudos de arquitetura
+- Ferramentas internas
+- Experimentos com IA
+- Aplicações Angular
+- Automação de processos
+- Projetos pessoais e SaaS
+
+---
+
+Estatísticas
+
+"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoCambraia14&layout=compact&theme=tokyonight)
+
+"GitHub stats" (https://github-readme-stats.vercel.app/api?username=RodrigoCambraia14&show_icons=true&theme=tokyonight)
+
+---
+
+Contato
+
+- GitHub: https://github.com/RodrigoCambraia14
+- LinkedIn: https://www.linkedin.com/in/rodrigogcambraia/
